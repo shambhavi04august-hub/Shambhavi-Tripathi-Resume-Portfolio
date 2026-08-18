@@ -1,4 +1,4 @@
-# 👩‍💼 Shambhavi Tripathi — Resume & Portfolio
+# 👩‍💼 Shambhavi Tripathi - Resume & Portfolio
 
 ## 📌 About Me
 
