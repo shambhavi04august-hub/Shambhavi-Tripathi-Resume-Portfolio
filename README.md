@@ -141,19 +141,9 @@ Shambhavi-Tripathi-Resume-Portfolio/
 
 ---
 
-### 📄 Resume Preview
-
 ## 🖥️ Resume Preview
 
-<p align="center">
-  <a href="Resume/Shambhavi_Tripathi_Resume.pdf">
-    <img src="resume_preview.png" alt="Shambhavi Tripathi Resume Preview" width="800">
-  </a>
-</p>
-
-<p align="center">
-  <b>Click the preview above to view the complete resume.</b>
-</p>
+![Shambhavi Tripathi Resume Preview](resume_preview.png)
 
 ---
 
