@@ -141,26 +141,16 @@ Shambhavi-Tripathi-Resume-Portfolio/
 
 ---
 
-## 🖥️ Portfolio Preview
-
 ### 📄 Resume Preview
 
 Add a resume screenshot to the repository as:
 
-`resume_preview.png`
+`Screenshot 2026-08-18 113921.png`
 
 Then display it in this README using:
 
 ```markdown
-![Shambhavi Tripathi Resume Preview](resume_preview.png)
-```
-
-### 📊 Project Dashboard Preview
-
-Dashboard screenshots can be added inside the `Projects` folder and displayed using:
-
-```markdown
-![Project Dashboard Preview](Projects/Excel-Dashboards/dashboard_preview.png)
+![Shambhavi Tripathi Resume Preview](Screenshot 2026-08-18 113921.png)
 ```
 
 ---
