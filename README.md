@@ -143,15 +143,17 @@ Shambhavi-Tripathi-Resume-Portfolio/
 
 ### 📄 Resume Preview
 
-Add a resume screenshot to the repository as:
+## 🖥️ Resume Preview
 
-`Screenshot 2026-08-18 113921.png`
+<p align="center">
+  <a href="Resume/Shambhavi_Tripathi_Resume.pdf">
+    <img src="resume_preview.png" alt="Shambhavi Tripathi Resume Preview" width="800">
+  </a>
+</p>
 
-Then display it in this README using:
-
-```markdown
-![Shambhavi Tripathi Resume Preview](Screenshot 2026-08-18 113921.png)
-```
+<p align="center">
+  <b>Click the preview above to view the complete resume.</b>
+</p>
 
 ---
 
